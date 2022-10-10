@@ -1,5 +1,6 @@
 # A simple web application to encode/decode in base64
 Made with React and TypeScript on frontend, Go and it's default libraries on backend.
+This project is kind of esoteric, I got an idea to make it once I have noticed encoding/base64 in Go default library.
 
 ![](imgs/screenshotv1.png)
 
